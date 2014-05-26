@@ -3,7 +3,7 @@
   <category label="32000">
 
     <setting label="32001" type="number" id="STARTUP_SLEEP" default="30"/>
-    <setting label="32002" type="number" id="SLEEP_PERIOD" default="600"/>
+    <setting label="32002" type="number" id="SLEEP_PERIOD" default="60"/>
 
   </category>
 </settings>

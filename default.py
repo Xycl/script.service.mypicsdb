@@ -17,7 +17,7 @@ __homepath__ = __settings__.getAddonInfo('path').decode('utf-8')
 
 #__version__     = "1"
 
-sleep_period = int(__settings__.getSetting( "SLEEP_PERIOD" ))
+sleep_period = int(__settings__.getSetting( "SLEEP_PERIOD" )) * 60
 
 class FritzCallmonitor():
 
