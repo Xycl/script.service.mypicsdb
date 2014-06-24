@@ -4,6 +4,6 @@
 
     <setting label="32001" type="number" id="STARTUP_SLEEP" default="30"/>
     <setting label="32002" type="number" id="SLEEP_PERIOD" default="60"/>
-
+    <setting label="32003" type="lsep"/>
   </category>
 </settings>

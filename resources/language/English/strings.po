@@ -27,3 +27,7 @@ msgstr ""
 msgctxt "#32002"
 msgid "[B]Minutes[/B] to wait for subsequent scans"
 msgstr ""
+
+msgctxt "#32003"
+msgid "Set above minutes to 0 to disable the service!"
+msgstr ""
