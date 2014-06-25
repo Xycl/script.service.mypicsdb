@@ -1,2 +1,5 @@
+2014/06/25 --> v 13.0.1
+Fix:    React on abort requests in a timely manner
+
 2014/06/24 --> v 13.0.0
 New:    Initial version
