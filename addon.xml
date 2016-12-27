@@ -4,6 +4,9 @@
    	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.service" library="default.py" start="login"></extension>
+  <extension point="xbmc.python.script" library="scan_exec.py">
+    <provides>executable</provides>
+  </extension>  
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language></language>
